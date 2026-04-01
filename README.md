@@ -1,2 +1,2 @@
 ## 比赛代码
-## author Chao Wei
+## Author: Chao Wei
